@@ -1,0 +1,317 @@
+title: Kingdom Hearts P3 Mix
+originalAuthor: You
+description: Generated on Wed, 16 Jul 2025 16:13:54 GMT
+dependencies: 
+assets:
+- name: remastered/amusic/music110.dat/music110.win32.scd
+  method: copy
+  source:
+  - name: remastered/amusic/music110.dat/music110.win32.scd
+- name: remastered/amusic/title.dat/se020041.win32.scd
+  method: copy
+  source:
+  - name: remastered/amusic/title.dat/se020041.win32.scd
+- name: remastered/amusic/se000.dat/se000.win32.scd
+  method: copy
+  source:
+  - name: remastered/amusic/se000.dat/se000.win32.scd
+- name: remastered/title/copyright.tm2/-40.dds
+  method: copy
+  source:
+  - name: remastered/title/copyright.tm2/-40.dds
+- name: remastered/title/disney.tm2/-40.png
+  method: copy
+  source:
+  - name: remastered/title/disney.tm2/-40.png
+- name: remastered/title/title.img/-130.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-130.dds
+- name: remastered/title/title.img/-131.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-131.dds
+- name: remastered/title/title.img/-1501b0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-1501b0.dds
+- name: remastered/title/title.img/-1501b1.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-1501b1.dds
+- name: remastered/title/title.img/-168230.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-168230.dds
+- name: remastered/title/title.img/-168231.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-168231.dds
+- name: remastered/title/title.img/-174670.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-174670.dds
+- name: remastered/title/title.img/-1766f0.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/-1766f0.png
+- name: remastered/title/title.img/-17ab30.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-17ab30.dds
+- name: remastered/title/title.img/-17cbb0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-17cbb0.dds
+- name: remastered/title/title.img/-180ff0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-180ff0.dds
+- name: remastered/title/title.img/-183070.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-183070.dds
+- name: remastered/title/title.img/-1874b0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-1874b0.dds
+- name: remastered/title/title.img/-187730.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-187730.dds
+- name: remastered/title/title.img/-c0170.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-c0170.dds
+- name: remastered/title/title.img/-_other.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/-_other.png
+- name: remastered/title/title.img/-_ps.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/-_ps.png
+- name: remastered/title/title.img/-_xbox.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/-_xbox.png
+- name: remastered/title/title.img/FR_title_img140.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/FR_title_img140.dds
+- name: remastered/title/title.img/FR_title_img141.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/FR_title_img141.dds
+- name: remastered/title/title.img/FR_title_img174670.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/FR_title_img174670.dds
+- name: remastered/title/title.img/FR_title_img1766f0.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/FR_title_img1766f0.png
+- name: remastered/title/title.img/FR_title_img17ab30.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/FR_title_img17ab30.dds
+- name: remastered/title/title.img/FR_title_img17cbb0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/FR_title_img17cbb0.dds
+- name: remastered/title/title.img/FR_title_img180ff0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/FR_title_img180ff0.dds
+- name: remastered/title/title.img/FR_title_img183070.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/FR_title_img183070.dds
+- name: remastered/title/title.img/FR_title_img_other.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/FR_title_img_other.png
+- name: remastered/title/title.img/FR_title_img_ps.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/FR_title_img_ps.png
+- name: remastered/title/title.img/FR_title_img_xbox.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/FR_title_img_xbox.png
+- name: remastered/title/title.img/GR_title_img140.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/GR_title_img140.dds
+- name: remastered/title/title.img/GR_title_img141.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/GR_title_img141.dds
+- name: remastered/title/title.img/GR_title_img174670.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/GR_title_img174670.dds
+- name: remastered/title/title.img/GR_title_img1766f0.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/GR_title_img1766f0.png
+- name: remastered/title/title.img/GR_title_img17ab30.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/GR_title_img17ab30.dds
+- name: remastered/title/title.img/GR_title_img17cbb0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/GR_title_img17cbb0.dds
+- name: remastered/title/title.img/GR_title_img180ff0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/GR_title_img180ff0.dds
+- name: remastered/title/title.img/GR_title_img183070.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/GR_title_img183070.dds
+- name: remastered/title/title.img/GR_title_img_other.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/GR_title_img_other.png
+- name: remastered/title/title.img/GR_title_img_ps.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/GR_title_img_ps.png
+- name: remastered/title/title.img/GR_title_img_xbox.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/GR_title_img_xbox.png
+- name: remastered/title/title.img/IT_title_img140.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/IT_title_img140.dds
+- name: remastered/title/title.img/IT_title_img141.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/IT_title_img141.dds
+- name: remastered/title/title.img/IT_title_img174670.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/IT_title_img174670.dds
+- name: remastered/title/title.img/IT_title_img1766f0.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/IT_title_img1766f0.png
+- name: remastered/title/title.img/IT_title_img17ab30.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/IT_title_img17ab30.dds
+- name: remastered/title/title.img/IT_title_img17cbb0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/IT_title_img17cbb0.dds
+- name: remastered/title/title.img/IT_title_img180ff0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/IT_title_img180ff0.dds
+- name: remastered/title/title.img/IT_title_img183070.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/IT_title_img183070.dds
+- name: remastered/title/title.img/IT_title_img_other.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/IT_title_img_other.png
+- name: remastered/title/title.img/IT_title_img_ps.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/IT_title_img_ps.png
+- name: remastered/title/title.img/IT_title_img_xbox.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/IT_title_img_xbox.png
+- name: remastered/title/title.img/SP_title_img140.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/SP_title_img140.dds
+- name: remastered/title/title.img/SP_title_img141.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/SP_title_img141.dds
+- name: remastered/title/title.img/SP_title_img174670.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/SP_title_img174670.dds
+- name: remastered/title/title.img/SP_title_img1766f0.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/SP_title_img1766f0.png
+- name: remastered/title/title.img/SP_title_img17ab30.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/SP_title_img17ab30.dds
+- name: remastered/title/title.img/SP_title_img17cbb0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/SP_title_img17cbb0.dds
+- name: remastered/title/title.img/SP_title_img180ff0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/SP_title_img180ff0.dds
+- name: remastered/title/title.img/SP_title_img183070.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/SP_title_img183070.dds
+- name: remastered/title/title.img/SP_title_img_other.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/SP_title_img_other.png
+- name: remastered/title/title.img/SP_title_img_ps.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/SP_title_img_ps.png
+- name: remastered/title/title.img/SP_title_img_xbox.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/SP_title_img_xbox.png
+- name: remastered/title/title.img/UK_title_img140.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/UK_title_img140.dds
+- name: remastered/title/title.img/UK_title_img141.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/UK_title_img141.dds
+- name: remastered/title/title.img/UK_title_img174670.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/UK_title_img174670.dds
+- name: remastered/title/title.img/UK_title_img1766f0.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/UK_title_img1766f0.png
+- name: remastered/title/title.img/UK_title_img17ab30.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/UK_title_img17ab30.dds
+- name: remastered/title/title.img/UK_title_img17cbb0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/UK_title_img17cbb0.dds
+- name: remastered/title/title.img/UK_title_img180ff0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/UK_title_img180ff0.dds
+- name: remastered/title/title.img/UK_title_img183070.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/UK_title_img183070.dds
+- name: remastered/title/title.img/UK_title_img_other.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/UK_title_img_other.png
+- name: remastered/title/title.img/UK_title_img_ps.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/UK_title_img_ps.png
+- name: remastered/title/title.img/UK_title_img_xbox.png
+  method: copy
+  source:
+  - name: remastered/title/title.img/UK_title_img_xbox.png
