@@ -1,20 +1,24 @@
-title: Kingdom Hearts P3 Mix
+title: KHPersona3Mode
 originalAuthor: You
-description: Generated on Wed, 16 Jul 2025 16:13:54 GMT
+description: Generated on Sun, 20 Jul 2025 15:08:56 GMT
 dependencies: 
 assets:
 - name: remastered/amusic/music110.dat/music110.win32.scd
   method: copy
   source:
   - name: remastered/amusic/music110.dat/music110.win32.scd
-- name: remastered/amusic/title.dat/se020041.win32.scd
+- name: remastered/amusic/music132.bgm/music132.win32.scd
   method: copy
   source:
-  - name: remastered/amusic/title.dat/se020041.win32.scd
+  - name: remastered/amusic/music132.bgm/music132.win32.scd
 - name: remastered/amusic/se000.dat/se000.win32.scd
   method: copy
   source:
   - name: remastered/amusic/se000.dat/se000.win32.scd
+- name: remastered/amusic/title.dat/se020041.win32.scd
+  method: copy
+  source:
+  - name: remastered/amusic/title.dat/se020041.win32.scd
 - name: remastered/title/copyright.tm2/-40.dds
   method: copy
   source:
@@ -315,3 +319,51 @@ assets:
   method: copy
   source:
   - name: remastered/title/title.img/UK_title_img_xbox.png
+- name: remastered/eveffect/di/di_002.dpx/-22c00.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/-22c00.dds
+- name: remastered/eveffect/di/di_002.dpx/-33020.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/-33020.dds
+- name: remastered/eveffect/di/di_002.dpx/FR_di_002_dpx22c00.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/FR_di_002_dpx22c00.dds
+- name: remastered/eveffect/di/di_002.dpx/FR_di_002_dpx33020.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/FR_di_002_dpx33020.dds
+- name: remastered/eveffect/di/di_002.dpx/GR_di_002_dpx22c00.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/GR_di_002_dpx22c00.dds
+- name: remastered/eveffect/di/di_002.dpx/GR_di_002_dpx33020.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/GR_di_002_dpx33020.dds
+- name: remastered/eveffect/di/di_002.dpx/IT_di_002_dpx22c00.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/IT_di_002_dpx22c00.dds
+- name: remastered/eveffect/di/di_002.dpx/IT_di_002_dpx33020.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/IT_di_002_dpx33020.dds
+- name: remastered/eveffect/di/di_002.dpx/SP_di_002_dpx22c00.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/SP_di_002_dpx22c00.dds
+- name: remastered/eveffect/di/di_002.dpx/SP_di_002_dpx33020.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/SP_di_002_dpx33020.dds
+- name: remastered/eveffect/di/di_002.dpx/UK_di_002_dpx22c00.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/UK_di_002_dpx22c00.dds
+- name: remastered/eveffect/di/di_002.dpx/UK_di_002_dpx33020.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/UK_di_002_dpx33020.dds
